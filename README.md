@@ -9,6 +9,9 @@
 ## DESCRIPTION
 This project analyzes unemployment trends using Python and time series analysis techniques. The dataset includes unemployment rate, labour participation rate, and employment statistics across different regions during the COVID-19 period. The project focuses on data cleaning, preprocessing, visualization, and extracting insights about the impact of COVID-19 on unemployment trends using Pandas, Matplotlib, and Seaborn.
 
+
+<img width="1362" height="713" alt="image" src="https://github.com/user-attachments/assets/0fa12974-a085-4420-850e-1242afa76568" />
+
 ## Objectives
 - Analyze unemployment trends over time
 - Study the impact of COVID-19 on unemployment
