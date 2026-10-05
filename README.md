@@ -16,7 +16,7 @@ This project analyzes unemployment trends using Python and time series analysis 
 <br>
 <br>
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/0fa12974-a085-4420-850e-1242afa76568"  />
-<br><br>
+<br><br><br>
 <p ><i><strong>Figure 2: Difference in avg unemployment rate before and after the affected time</strong></i></p>
 <br><img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/a7017093-6e09-4f32-a59f-5a768b239453" align="center" />
 
