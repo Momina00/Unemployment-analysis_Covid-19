@@ -11,9 +11,14 @@ This project analyzes unemployment trends using Python and time series analysis 
 
 ## Graphical Analysis
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0fa12974-a085-4420-850e-1242afa76568" />
 
-The area shown in red marks the major hike during the affected months
+*Figure 1: Graph 
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/0fa12974-a085-4420-850e-1242afa76568" />
+
+<p align="center"><i>Figure 1: Sales Performance Dashboard</i></p>
+
+
 
 ### --- The Difference in average unemployment rate before and after Covid ---
 
